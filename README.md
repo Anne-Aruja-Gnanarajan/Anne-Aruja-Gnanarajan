@@ -20,7 +20,11 @@ Binary classification models (logistic regression and decision tree) with forwar
 
 Interactive dashboard analysing electricity generation, consumption, and CO₂ emissions across 48 countries using IEA/OECD data. Built with Python and Pandas; deployed as a live Streamlit app. Build based on original Python notebook (above) and assisted with Claude.
 
+🎓 Credentials
 
+Graduate Diploma in Analytics (High Distinction) — UNSW, 2025
+Bachelor of Electrical Engineering (First Class Honours) — UNSW, 2015
+Databricks Lakehouse Fundamentals — 2025
 
 <!--
 **Anne-Aruja-Gnanarajan/Anne-Aruja-Gnanarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
