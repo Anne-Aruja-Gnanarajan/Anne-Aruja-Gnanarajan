@@ -1,5 +1,25 @@
 ## Hi there, I'm Anne 👋
 
+Analytics and data engineering professional with 9+ years’ experience delivering business intelligence, data analytics, actionable insights, reporting and data engineering solutions across banking (ANZ, CBA), consulting (Accenture) and SaaS analytics (Applied Predictive Technologies). Strong expertise in Python, SQL, Power BI, Tableau, data transformation, data engineering, statistical analysis and visualisation. Extensive experience managing stakeholders, including having presented data-driven insights to C-suite and GM level audiences at CBA, ANZ and Applied Predictive Technologies.
+
+📌 Featured Projects
+
+⚡ Global Electricity Generation & Consumption — Streamlit App
+
+Interactive dashboard analysing electricity generation, consumption, and CO₂ emissions across 48 countries using IEA/OECD data. Built with Python and Pandas; deployed as a live Streamlit app.
+
+📊 Global Electricity Analysis — Python Notebook
+
+End-to-end Python analysis covering data cleaning, EDA, and per-capita emissions comparisons. Companion to the Streamlit app above.
+
+🌍 Global Poverty Data Story — Tableau
+
+A narrative data visualisation built in Tableau, exploring global poverty trends using World Bank data.
+
+📉 Employee Attrition Prediction — R
+
+Binary classification models (logistic regression and decision tree) with forward stepwise selection and cross-validation, built in R.
+
 <!--
 **Anne-Aruja-Gnanarajan/Anne-Aruja-Gnanarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
