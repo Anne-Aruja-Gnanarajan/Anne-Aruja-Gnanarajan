@@ -4,10 +4,6 @@ I'm an analytics and data engineering professional with 9+ years’ experience d
 
 📌 Featured Projects
 
-⚡ Global Electricity Generation & Consumption — Streamlit App
-
-Interactive dashboard analysing electricity generation, consumption, and CO₂ emissions across 48 countries using IEA/OECD data. Built with Python and Pandas; deployed as a live Streamlit app.
-
 📊 Global Electricity Analysis — Python Notebook
 
 End-to-end Python analysis covering data cleaning, EDA, and per-capita emissions comparisons. Companion to the Streamlit app above.
@@ -19,6 +15,12 @@ A narrative data visualisation built in Tableau, exploring global poverty trends
 📉 Employee Attrition Prediction — R
 
 Binary classification models (logistic regression and decision tree) with forward stepwise selection and cross-validation, built in R.
+
+⚡ Global Electricity Generation & Consumption — Streamlit App
+
+Interactive dashboard analysing electricity generation, consumption, and CO₂ emissions across 48 countries using IEA/OECD data. Built with Python and Pandas; deployed as a live Streamlit app. Build based on original Python notebook (above) and assisted with Claude.
+
+
 
 <!--
 **Anne-Aruja-Gnanarajan/Anne-Aruja-Gnanarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
