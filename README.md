@@ -1,6 +1,6 @@
 ## Hi there, I'm Anne 👋
 
-I'm an analytics and data engineering professional with 9+ years’ experience delivering business intelligence, data analytics, actionable insights, reporting and data engineering solutions across banking (ANZ, CBA), consulting (Accenture) and SaaS analytics (Applied Predictive Technologies). I have strong expertise in Python, SQL, Power BI, Tableau, data transformation, data engineering, statistical analysis and visualisation. I've had extensive experience managing stakeholders, including having presented data-driven insights to C-suite and GM level audiences at CBA, ANZ and Applied Predictive Technologies.
+I'm an analytics and data engineering professional with 10 years’ experience delivering business intelligence, data analytics, actionable insights, reporting and data engineering solutions across banking (ANZ, CBA), consulting (Accenture) and SaaS analytics (Applied Predictive Technologies). I have strong expertise in Python, SQL, Power BI, Tableau, data transformation, data engineering, statistical analysis and visualisation. I've had extensive experience managing stakeholders, including having presented data-driven insights to C-suite and GM level audiences at CBA, ANZ and Applied Predictive Technologies.
 
 📌 Featured Projects
 
